@@ -1,0 +1,11 @@
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\bin\Debug\net8.0\Example.deps.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\bin\Debug\net8.0\Example.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\bin\Debug\net8.0\Example.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\obj\Debug\net8.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\obj\Debug\net8.0\Example.AssemblyInfoInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\obj\Debug\net8.0\Example.AssemblyInfo.cs
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\obj\Debug\net8.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\obj\Debug\net8.0\Example.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\obj\Debug\net8.0\refint\Example.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\obj\Debug\net8.0\Example.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\Example\obj\Debug\net8.0\ref\Example.dll

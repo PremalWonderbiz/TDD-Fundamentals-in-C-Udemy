@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549CA7C9-23B4-4DA6-BBBE-7B8C398DF25E}|RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj|c:\\users\\premal kadam\\documents\\learnings\\tdd\\udemycourse\\rockpaperscissors\\rockpaperscissorsapplication\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549CA7C9-23B4-4DA6-BBBE-7B8C398DF25E}|RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj|solutionrelative:rockpaperscissorsapplication\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B105A5-1360-4CC0-A41A-5677ACEA8AB4}|RockPaperScissorsApplicationTests\\RockPaperScissorsApplicationTests.csproj|c:\\users\\premal kadam\\documents\\learnings\\tdd\\udemycourse\\rockpaperscissors\\rockpaperscissorsapplicationtests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B105A5-1360-4CC0-A41A-5677ACEA8AB4}|RockPaperScissorsApplicationTests\\RockPaperScissorsApplicationTests.csproj|solutionrelative:rockpaperscissorsapplicationtests\\gametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549CA7C9-23B4-4DA6-BBBE-7B8C398DF25E}|RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj|c:\\users\\premal kadam\\documents\\learnings\\tdd\\udemycourse\\rockpaperscissors\\rockpaperscissorsapplication\\enums\\playermoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549CA7C9-23B4-4DA6-BBBE-7B8C398DF25E}|RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj|solutionrelative:rockpaperscissorsapplication\\enums\\playermoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549CA7C9-23B4-4DA6-BBBE-7B8C398DF25E}|RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj|c:\\users\\premal kadam\\documents\\learnings\\tdd\\udemycourse\\rockpaperscissors\\rockpaperscissorsapplication\\enums\\outcomes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549CA7C9-23B4-4DA6-BBBE-7B8C398DF25E}|RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj|solutionrelative:rockpaperscissorsapplication\\enums\\outcomes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549CA7C9-23B4-4DA6-BBBE-7B8C398DF25E}|RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj|c:\\users\\premal kadam\\documents\\learnings\\tdd\\udemycourse\\rockpaperscissors\\rockpaperscissorsapplication\\rockpaperscissorsapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{549CA7C9-23B4-4DA6-BBBE-7B8C398DF25E}|RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj|solutionrelative:rockpaperscissorsapplication\\rockpaperscissorsapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Outcomes.cs",
+              "DocumentMoniker": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplication\\Enums\\Outcomes.cs",
+              "RelativeDocumentMoniker": "RockPaperScissorsApplication\\Enums\\Outcomes.cs",
+              "ToolTip": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplication\\Enums\\Outcomes.cs",
+              "RelativeToolTip": "RockPaperScissorsApplication\\Enums\\Outcomes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:06:37.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RockPaperScissorsApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj",
+              "RelativeDocumentMoniker": "RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj",
+              "ToolTip": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj",
+              "RelativeToolTip": "RockPaperScissorsApplication\\RockPaperScissorsApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T11:33:57.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMoves.cs",
+              "DocumentMoniker": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplication\\Enums\\PlayerMoves.cs",
+              "RelativeDocumentMoniker": "RockPaperScissorsApplication\\Enums\\PlayerMoves.cs",
+              "ToolTip": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplication\\Enums\\PlayerMoves.cs",
+              "RelativeToolTip": "RockPaperScissorsApplication\\Enums\\PlayerMoves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:02:29.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameTests.cs",
+              "DocumentMoniker": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplicationTests\\GameTests.cs",
+              "RelativeDocumentMoniker": "RockPaperScissorsApplicationTests\\GameTests.cs",
+              "ToolTip": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplicationTests\\GameTests.cs",
+              "RelativeToolTip": "RockPaperScissorsApplicationTests\\GameTests.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAIEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:34:32.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplication\\Game.cs",
+              "RelativeDocumentMoniker": "RockPaperScissorsApplication\\Game.cs",
+              "ToolTip": "C:\\Users\\Premal Kadam\\Documents\\Learnings\\TDD\\UdemyCourse\\RockPaperScissors\\RockPaperScissorsApplication\\Game.cs",
+              "RelativeToolTip": "RockPaperScissorsApplication\\Game.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:33:49.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

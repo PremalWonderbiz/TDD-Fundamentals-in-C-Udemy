@@ -1,0 +1,11 @@
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\bin\Debug\net8.0\RockPaperScissorsApplication.deps.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\bin\Debug\net8.0\RockPaperScissorsApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\bin\Debug\net8.0\RockPaperScissorsApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\obj\Debug\net8.0\RockPaperScissorsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\obj\Debug\net8.0\RockPaperScissorsApplication.AssemblyInfoInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\obj\Debug\net8.0\RockPaperScissorsApplication.AssemblyInfo.cs
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\obj\Debug\net8.0\RockPaperScissorsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\obj\Debug\net8.0\RockPaperScissorsApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\obj\Debug\net8.0\refint\RockPaperScissorsApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\obj\Debug\net8.0\RockPaperScissorsApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\UdemyCourse\RockPaperScissors\RockPaperScissorsApplication\obj\Debug\net8.0\ref\RockPaperScissorsApplication.dll
