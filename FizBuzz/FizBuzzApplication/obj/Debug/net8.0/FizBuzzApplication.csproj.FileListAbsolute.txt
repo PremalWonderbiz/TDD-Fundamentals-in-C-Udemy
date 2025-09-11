@@ -1,0 +1,12 @@
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\bin\Debug\net8.0\FizBuzzApplication.deps.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\bin\Debug\net8.0\FizBuzzApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\bin\Debug\net8.0\FizBuzzApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\FizBuzzApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\FizBuzzApplication.AssemblyInfoInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\FizBuzzApplication.AssemblyInfo.cs
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\FizBuzzApplication.csproj.CoreCompileInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\FizBuzzApplication.sourcelink.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\FizBuzzApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\refint\FizBuzzApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\FizBuzzApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\FizBuzz\FizBuzzApplication\obj\Debug\net8.0\ref\FizBuzzApplication.dll
