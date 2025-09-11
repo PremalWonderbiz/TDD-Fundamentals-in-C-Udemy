@@ -1,0 +1,12 @@
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\bin\Debug\net8.0\AgeCalculatorApplication.deps.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\bin\Debug\net8.0\AgeCalculatorApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\bin\Debug\net8.0\AgeCalculatorApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\AgeCalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\AgeCalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\AgeCalculatorApplication.AssemblyInfo.cs
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\AgeCalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\AgeCalculatorApplication.sourcelink.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\AgeCalculatorApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\refint\AgeCalculatorApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\AgeCalculatorApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\AgeCalculator\AgeCalculatorApplication\obj\Debug\net8.0\ref\AgeCalculatorApplication.dll
