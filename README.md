@@ -3,6 +3,8 @@
 This repository contains my learnings, exercises, and kata implementations from the **Udemy course – Test-Driven Development: Build Software with Confidence**.  
 The goal of this repo is to apply TDD principles, practice unit testing, and build confidence in writing clean, testable, and maintainable code.
 
+Udemy Course Link : https://www.udemy.com/share/10738Q3@cCmYp_xMhhf9cW6GYN7FXD4q0igYx5m5WL2GAuOXXwumRHsNtEK2s7RlwLp5Ky_wsg==/
+
 ## 📚 Course Coverage
 
 ### Section Highlights
