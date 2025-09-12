@@ -1,0 +1,12 @@
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\bin\Debug\net8.0\StringCalculatorApplication.deps.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\bin\Debug\net8.0\StringCalculatorApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\bin\Debug\net8.0\StringCalculatorApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\StringCalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\StringCalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\StringCalculatorApplication.AssemblyInfo.cs
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\StringCalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\StringCalculatorApplication.sourcelink.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\StringCalculatorApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\refint\StringCalculatorApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\StringCalculatorApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\StringCalculator\StringCalculatorApplication\obj\Debug\net8.0\ref\StringCalculatorApplication.dll
