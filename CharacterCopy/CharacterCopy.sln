@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterCopyApplication", "CharacterCopyApplication\CharacterCopyApplication.csproj", "{BA6AF72C-1228-4C15-B6F8-F4AB6406C002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterCopyApplicationTests", "CharacterCopyApplicationTests\CharacterCopyApplicationTests.csproj", "{B9C5713F-140A-48B8-A903-6EF12BB46F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6AF72C-1228-4C15-B6F8-F4AB6406C002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6AF72C-1228-4C15-B6F8-F4AB6406C002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6AF72C-1228-4C15-B6F8-F4AB6406C002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6AF72C-1228-4C15-B6F8-F4AB6406C002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C5713F-140A-48B8-A903-6EF12BB46F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C5713F-140A-48B8-A903-6EF12BB46F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C5713F-140A-48B8-A903-6EF12BB46F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C5713F-140A-48B8-A903-6EF12BB46F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3911D89-2F4C-439F-94DE-1BA4F6AB1D72}
+	EndGlobalSection
+EndGlobal

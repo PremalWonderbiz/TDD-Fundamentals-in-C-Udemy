@@ -1,0 +1,12 @@
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\bin\Debug\net8.0\CharacterCopyApplication.deps.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\bin\Debug\net8.0\CharacterCopyApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\bin\Debug\net8.0\CharacterCopyApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\CharacterCopyApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\CharacterCopyApplication.AssemblyInfoInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\CharacterCopyApplication.AssemblyInfo.cs
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\CharacterCopyApplication.csproj.CoreCompileInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\CharacterCopyApplication.sourcelink.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\CharacterCopyApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\refint\CharacterCopyApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\CharacterCopyApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CharacterCopy\CharacterCopyApplication\obj\Debug\net8.0\ref\CharacterCopyApplication.dll
