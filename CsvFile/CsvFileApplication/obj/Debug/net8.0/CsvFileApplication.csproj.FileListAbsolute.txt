@@ -1,0 +1,23 @@
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\bin\Debug\net8.0\CsvFileApplication.deps.json
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\bin\Debug\net8.0\CsvFileApplication.dll
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\bin\Debug\net8.0\CsvFileApplication.pdb
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.AssemblyInfoInputs.cache
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.AssemblyInfo.cs
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.csproj.CoreCompileInputs.cache
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.dll
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\obj\Debug\net8.0\refint\CsvFileApplication.dll
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.pdb
+C:\Users\Prem\Downloads\TDDUDEMY\CsvFile\CsvFileApplication\obj\Debug\net8.0\ref\CsvFileApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\bin\Debug\net8.0\CsvFileApplication.deps.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\bin\Debug\net8.0\CsvFileApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\bin\Debug\net8.0\CsvFileApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.AssemblyInfoInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.AssemblyInfo.cs
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.csproj.CoreCompileInputs.cache
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.sourcelink.json
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\refint\CsvFileApplication.dll
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\CsvFileApplication.pdb
+C:\Users\Premal Kadam\Documents\Learnings\TDD\TDDFundamentalsC#\CsvFile\CsvFileApplication\obj\Debug\net8.0\ref\CsvFileApplication.dll
