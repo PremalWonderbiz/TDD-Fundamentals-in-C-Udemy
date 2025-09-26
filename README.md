@@ -61,13 +61,6 @@ Udemy Course Link : https://www.udemy.com/share/10738Q3@cCmYp_xMhhf9cW6GYN7FXD4q
 * Build small, test-driven projects to strengthen confidence.
 * Document progress across course sections for quick reference.
 
-## ✅ Progress Tracker
-
-* [x] Course setup and environment configuration
-* [x] Introduction to TDD & F.I.R.S.T principles
-* [x] Rock-Paper-Scissors kata (in progress)
-* [ ] More katas & exercises (to be added)
-
 ## 📌 Notes
 
 This repo is for **learning purposes only**. Each kata/exercise is implemented step by step following the **Red-Green-Refactor cycle**.
